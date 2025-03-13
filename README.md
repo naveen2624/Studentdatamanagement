@@ -13,3 +13,4 @@ This takes the input from the user and calculates the total marks and percentage
 3. Calculate Total marks and percentage.
 4. Store the data in CSV.
 5. Display the data of student with respect to register number.
+
